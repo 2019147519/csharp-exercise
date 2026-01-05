@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp2/ConsoleApp2.csproj": {}
   },
   "projects": {
-    "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp1/ConsoleApp1.csproj": {
+    "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp2/ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp1/ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp2/ConsoleApp2.csproj",
+        "projectName": "ConsoleApp2",
+        "projectPath": "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp2/ConsoleApp2.csproj",
         "packagesPath": "/Users/songsangyoon/.nuget/packages/",
-        "outputPath": "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp1/obj/",
+        "outputPath": "/Users/songsangyoon/codeprojects/csharp-exercise/ConsoleApp2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/songsangyoon/.nuget/NuGet/NuGet.Config"
