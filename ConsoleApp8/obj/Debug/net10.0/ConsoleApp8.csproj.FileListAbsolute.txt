@@ -1,0 +1,15 @@
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.exe
+C:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.deps.json
+C:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.runtimeconfig.json
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.dll
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.pdb
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.AssemblyInfoInputs.cache
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.AssemblyInfo.cs
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.sourcelink.json
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.dll
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\refint\ConsoleApp8.dll
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.pdb
+C:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.genruntimeconfig.cache
+C:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp8\obj\Debug\net10.0\ref\ConsoleApp8.dll
