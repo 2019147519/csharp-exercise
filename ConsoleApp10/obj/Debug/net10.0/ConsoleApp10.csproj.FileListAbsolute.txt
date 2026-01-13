@@ -1,0 +1,15 @@
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.exe
+C:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.deps.json
+C:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.runtimeconfig.json
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.dll
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.pdb
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.AssemblyInfoInputs.cache
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.AssemblyInfo.cs
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.sourcelink.json
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.dll
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\refint\ConsoleApp10.dll
+c:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.pdb
+C:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.genruntimeconfig.cache
+C:\Users\songs\Desktop\Lion\csharp-exercise\ConsoleApp10\obj\Debug\net10.0\ref\ConsoleApp10.dll
